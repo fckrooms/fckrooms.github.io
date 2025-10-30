@@ -65,15 +65,10 @@ export const profileConfig: ProfileConfig = {
 			url: "https://twitter.com",
 		},
 		{
-			name: "Steam",
+			name: "Maps",
 			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
-		},
+			url: "https://maps.app.goo.gl/KU7Hoj9gxX8JTf6A8",
+		}
 	],
 };
 
