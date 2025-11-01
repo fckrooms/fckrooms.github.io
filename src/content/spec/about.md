@@ -23,5 +23,4 @@ Disfruta, comparte y goza.
 Encuentranos en:
 + <a href="https://fckrooms.github.io/" target="_blank">Sitio web - FckRooms</a>
 + <a href="https://maps.app.goo.gl/AU9fgk5bX1dXPqh5A" target="_blank">FckRooms recomendados - Vista en Google Maps </a>
-+ <a href="https://maps.app.goo.gl/A22tPVVTGj4pethSA" target="_blank">FckRooms NO recomendados - Vista en Google Maps </a>
 :::
