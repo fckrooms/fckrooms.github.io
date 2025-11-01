@@ -2,7 +2,7 @@
 title: FckRooms en CDMX
 published: 2025-10-30
 description: 'Hoteles y moteles para disfrutar en pareja, trieja o incluso más. Habitaciones para el placer.'
-image: 'https://raw.githubusercontent.com/fckrooms/misc/refs/heads/main/blog/portada/kms/como_funcionan_los_activadores_kms.png'
+image: 'https://raw.githubusercontent.com/fckrooms/misc/refs/heads/main/fckrooms/fckrooms.png'
 tags: [FckRooms]
 category: 'FckRooms'
 draft: false 
