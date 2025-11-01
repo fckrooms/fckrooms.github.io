@@ -2,7 +2,10 @@
 + Es una colección de hoteles y moteles que cuentan con habitaciones diseñadas para pasar un buen rato
 + Habitaciones para compartir en pareja, trieja e incluso más
 + Gracias a que están listados en Google Maps puedes conocer cuál está más cerca de ti
-+ Cada motel registrado adjunta: Recomendación (5/5), sitio web (para que conozcas habitaciones y costos) y limite de ocupantes 
++ Cada motel registrado adjunta:
+  + Recomendación (5/5)
+  + Sitio web, para que conozcas sus habitaciones y costos
+  + Límite de ocupantes 
 
 # FckRooms recomendados
 + <a href="https://maps.app.goo.gl/AU9fgk5bX1dXPqh5A" target="_blank">FckRooms recomendados - Vista en Google Maps </a>
