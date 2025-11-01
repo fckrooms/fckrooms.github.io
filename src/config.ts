@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
-		enable: true,
+		enable: false,
 		src: "assets/images/demo-banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
@@ -53,10 +53,10 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://raw.githubusercontent.com/fckrooms/misc/refs/heads/main/fckrooms/fckrooms.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Fckrooms",
-	bio: "Una lista de moteles bonitos, sexys y dónde aceptan a más de dos personas.",
-	links: [
+	bio: "Hoteles y moteles para disfrutar en pareja, trieja o incluso más. Habitaciones para el placer.",
+	links: [/*
 		{
 			name: "Twitter",
 			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
@@ -68,7 +68,7 @@ export const profileConfig: ProfileConfig = {
 			name: "Maps",
 			icon: "fa6-brands:steam",
 			url: "https://maps.app.goo.gl/KU7Hoj9gxX8JTf6A8",
-		}
+		}*/
 	],
 };
 
